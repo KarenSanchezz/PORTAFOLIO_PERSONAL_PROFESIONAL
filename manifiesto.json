@@ -1,0 +1,16 @@
+{
+  "name": "Portafolio de Karen",
+  "short_name": "Karen Portafolio",
+  "description": "Portafolio de desarrollo web de Karen Sanchez",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f7",
+  "theme_color": "#7ade30",
+  "icons": [
+    {
+      "src": "imagenes/icono.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
